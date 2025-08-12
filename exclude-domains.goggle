@@ -1,0 +1,7 @@
+! name: Exclude Stock Photo and Social Sites
+! description: Loại trừ stock photo và social media sites khỏi image search
+! public: true
+! author: Tuannt Developer
+
+! Stock photo sites
+$discard,site=nguyenlieuphacheminhquan.com
