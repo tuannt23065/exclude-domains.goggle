@@ -5,3 +5,4 @@
 
 ! Stock photo sites
 $discard,site=nguyenlieuphacheminhquan.com
+$discard,site=*.nguyenlieuphacheminhquan.com
